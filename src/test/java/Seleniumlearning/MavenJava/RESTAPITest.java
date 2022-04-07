@@ -30,7 +30,7 @@ public class RESTAPITest {
 		System.out.println("Testing GIT and GITHUB braching");
 		System.out.println("GIT branch Commands");
 		
-		System.out.println("06 Dec Code");
+		System.out.println("07 Apr 2022");
 	}
 
 }
