@@ -24,4 +24,11 @@ public class PostmanTest {
 		System.out.println("Third Postman Test");
 		System.out.println("07 Apr 2022");
 	}
+	
+	@Test
+	public void FourthPostmanTest()
+	{
+		System.out.println("Fourth Postman Test");
+		System.out.println("07 Apr 2022");
+	}
 }
