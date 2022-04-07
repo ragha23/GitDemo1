@@ -10,6 +10,7 @@ public class RESTAPITest {
 		System.out.println("This is First RESTAPI Test");
 		System.out.println("Testing GIT and GITHUB");
 		System.out.println("GIT Commands");
+		System.out.println("07 Apr 2022");
 	}
 
 	@Test
@@ -19,7 +20,7 @@ public class RESTAPITest {
 		System.out.println("Testing GIT and GITHUB");
 		System.out.println("GIT Commands");
 		
-		System.out.println("06 Dec Code");
+		System.out.println("07 Apr 2022");
 	}
 	
 	@Test
